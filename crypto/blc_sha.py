@@ -1,4 +1,5 @@
 import hashlib
+from digest import Digest
 
 class BlcSha(object):
     @classmethod
